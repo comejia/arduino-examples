@@ -3,7 +3,7 @@
 Ejemplos basicos para usar en el desarrollo de las clases
 
 
-##Checklist:
+## Checklist
 
 * Ordenar ejemplos por dificultad
 * Actulizar con librerias recientes
