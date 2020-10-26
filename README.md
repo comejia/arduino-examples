@@ -1,4 +1,4 @@
-# Arduino
+# Basic Arduino examples
 
 Ejemplos basicos para usar en el desarrollo de las clases
 
